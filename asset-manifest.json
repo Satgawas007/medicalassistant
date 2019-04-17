@@ -1,0 +1,18 @@
+{
+  "main.css": "/medicalassistant/static/css/main.036af769.chunk.css",
+  "main.js": "/medicalassistant/static/js/main.7178500e.chunk.js",
+  "main.js.map": "/medicalassistant/static/js/main.7178500e.chunk.js.map",
+  "runtime~main.js": "/medicalassistant/static/js/runtime~main.be0e538f.js",
+  "runtime~main.js.map": "/medicalassistant/static/js/runtime~main.be0e538f.js.map",
+  "static/css/2.2bd1e6aa.chunk.css": "/medicalassistant/static/css/2.2bd1e6aa.chunk.css",
+  "static/js/2.47c39d2b.chunk.js": "/medicalassistant/static/js/2.47c39d2b.chunk.js",
+  "static/js/2.47c39d2b.chunk.js.map": "/medicalassistant/static/js/2.47c39d2b.chunk.js.map",
+  "index.html": "/medicalassistant/index.html",
+  "precache-manifest.20e371d88d1b40009a8627b62abc3f7b.js": "/medicalassistant/precache-manifest.20e371d88d1b40009a8627b62abc3f7b.js",
+  "service-worker.js": "/medicalassistant/service-worker.js",
+  "static/css/2.2bd1e6aa.chunk.css.map": "/medicalassistant/static/css/2.2bd1e6aa.chunk.css.map",
+  "static/css/main.036af769.chunk.css.map": "/medicalassistant/static/css/main.036af769.chunk.css.map",
+  "static/media/primereact.min.css": "/medicalassistant/static/media/line.567f5738.gif",
+  "static/media/theme.css": "/medicalassistant/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+  "static/media/primeicons.css": "/medicalassistant/static/media/primeicons.b8eccb10.eot"
+}
