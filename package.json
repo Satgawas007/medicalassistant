@@ -2,6 +2,7 @@
   "name": "medical-assistant",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://satgawas007.github.io/medicalassistant",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
@@ -26,6 +27,8 @@
     "react-transition-group": "^2.5.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "medicalassistant -d build",
     "start": "concurrently \"nodemon server.js\" \"react-scripts start medical-assistant\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
