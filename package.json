@@ -28,7 +28,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "medicalassistant -d build",
+    "deploy": "gh-pages -d build",
     "start": "concurrently \"nodemon server.js\" \"react-scripts start medical-assistant\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
